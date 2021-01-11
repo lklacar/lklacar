@@ -4,7 +4,7 @@
 
 My name is Luka and I'm currently working CTO at [Qubit](https://qubit.rs) and as a Java software engineer at [HTEC Group](https://htecgroup.com).
 
-In my free time I like to tinker with everthing software related, ranging from low level C and assembly stuff to AI and machine learning stuff.
+In my free time, I like to tinker with everything software related, ranging from low-level C and assembly stuff to AI and machine learning stuff.
 
 
 Profile overview:
