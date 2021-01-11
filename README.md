@@ -2,7 +2,7 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/luka-klacar)
 
-My name is Luka and I'm currently working as a CTO at [Qubit](https://qubit.rs) and as a Java software engineer at [HTEC Group](https://htecgroup.com).
+My name is Luka and I'm currently working as a CTO at [Qubit](https://qubit.rs) and as a Senior Java Software Engineer at [HTEC Group](https://htecgroup.com).
 
 In my free time, I like to tinker with everything software related, ranging from low-level C and assembly stuff to AI and machine learning stuff.
 
