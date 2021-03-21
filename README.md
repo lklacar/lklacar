@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flklacar%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/luka-klacar)
 
 My name is Luka and I'm currently working as a CTO at [Qubit](https://qubit.rs) and as a Senior Java Software Engineer at [HTEC Group](https://htecgroup.com).
