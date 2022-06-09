@@ -4,7 +4,7 @@
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=green&label=LinkedIn&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/luka-klacar)
 
-My name is Luka and I'm currently working as a Director of Engineering at [Marble IT](https://marbleit.rs/).
+My name is Luka and I'm currently working as a CTO at [Marble IT](https://marbleit.rs/).
 
 In my free time, I like to tinker with everything software related, ranging from low-level C and assembly stuff to AI and machine learning stuff.
 
