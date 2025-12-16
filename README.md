@@ -10,7 +10,7 @@ In my free time, I like to tinker with everything software related, ranging from
 Profile overview:
 
 <a href="https://github.com/lklacar/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lklacar&count_private=true&show_icons=true&theme=dark&hide_border=false" />
+  <img align="center" src="https://github-readme-stats-lklacar.vercel.app/api?username=lklacar&count_private=true&show_icons=true&theme=dark&hide_border=false" />
 </a>
 
 <a href="https://github.com/lklacar/">
